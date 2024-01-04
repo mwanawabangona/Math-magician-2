@@ -41,17 +41,14 @@ To clone this repo go to "https://github.com/Donard97/math-magician"
 
 ## Author
 
-👤 **Donard Golaj**
+👤 **Ellis Ngona**
 
-- Github : [@Donard97](https://github.com/Donard97)
-- Twitter: [@donardgolaj](https://twitter.com/donardgolaj)
-- LinkdIn : [@donard-golaj](https://www.linkedin.com/in/donard-golaj/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Donard97/math-magician/issues).
+Feel free to check the
 
 ## Show your support
 
